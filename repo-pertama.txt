@@ -2,4 +2,7 @@ BELAJAR GITHUB
 
 - ini merupakan pembelajran Github pertama saya
 - ini merupakan contoh file pertama saya
-- Semangat!!!
+- Dont Give UP!!!
+
+- Ini baris pertama setelah saya edit
+- Ini baris kedua setelah saya edit
